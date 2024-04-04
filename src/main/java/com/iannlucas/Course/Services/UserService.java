@@ -1,7 +1,7 @@
 package com.iannlucas.Course.Services;
 
 import com.iannlucas.Course.Repositories.UserRepository;
-import com.iannlucas.Course.User;
+import com.iannlucas.Course.Classes.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
